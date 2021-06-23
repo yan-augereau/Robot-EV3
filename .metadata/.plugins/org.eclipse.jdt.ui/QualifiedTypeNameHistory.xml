@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lejos.hardware.port.SensorPort"/>
+    <fullyQualifiedTypeName name="lejos.hardware.port.MotorPort"/>
+    <fullyQualifiedTypeName name="lejos.hardware.sensor.SensorMode"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.net.SocketException"/>
+    <fullyQualifiedTypeName name="lejos.remote.nxt.BTConnector"/>
+    <fullyQualifiedTypeName name="java.net.ServerSocket"/>
+    <fullyQualifiedTypeName name="java.net.InetAddress"/>
+    <fullyQualifiedTypeName name="java.net.UnknownHostException"/>
+</qualifiedTypeNameHistroy>

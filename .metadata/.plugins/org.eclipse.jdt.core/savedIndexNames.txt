@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/yanaugereau/Documents/Eclipse/Bras Articulé/.metadata/.plugins/org.eclipse.jdt.core
+1323252866.index
+3543367310.index
+3514291996.index
